@@ -1,0 +1,27 @@
+img{
+    height: 40vh;
+}
+.row{
+    /* background-color: red; */
+    padding:1rem;
+}
+.button-align{
+    justify-content:space-evenly;
+    align-items: center;
+    display: flex;
+    margin-bottom: 2vh;
+    /* font-style: italic; */
+}
+.card-title:hover{
+    color:red;
+}
+.card-img-top{
+    transition: transform .10s; /* Animation */
+}
+.card-img-top:hover{
+    /* height: 50vh; */
+    /* width:45vw; */
+    transform: scale
+    (1.2);
+    /* transform: skew(); */
+}

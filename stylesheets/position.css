@@ -1,0 +1,28 @@
+body{
+    height: 800px;
+}
+.parent{
+    background-color: red;
+    /* position: relative; */
+}
+.c1{
+    background-color: aqua;
+    height:50px;
+    position:sticky;
+    top:0;
+    width:100%;
+    /* margin-bottom: 5px; */
+    bottom:5;
+   /* left:20px;
+    right:20px;
+    top:20px;
+    bottom:20px;*/
+}
+.c2{
+    background-color: peachpuff;
+    height:50px
+}
+.c3{
+    background-color: grey;
+    height:50px
+}

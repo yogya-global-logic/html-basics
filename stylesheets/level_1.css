@@ -1,0 +1,33 @@
+h1{
+    background-color: aqua;
+    border:4px red solid;
+    padding:1%;
+    text-align: center; 
+}
+.desc{
+    background-color: rgb(116, 228, 79);
+    height: 35vh;
+    text-align: center;
+    padding: 1%;
+    border:3px red solid;
+    border-radius: 30px;
+    /* margin-bottom: 30px; */
+}
+div{
+    margin-bottom:20px;
+}
+.img-div{
+    display:flex;
+    justify-content: space-around;
+    border:5px plum solid;
+    background-color: lavender;
+
+    /* margin: 5px; */
+}
+img{
+    /* border:5px red solid; */
+    width: 17vw;
+    margin:5px;
+    height: 30vh;
+}
+

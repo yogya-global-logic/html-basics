@@ -1,0 +1,24 @@
+.c1{
+    /* background-color: aqua; */
+}
+.c2{
+    /* background-color: aquamarine; */
+}
+.c3{
+    /* background-color: bisque; */
+}
+.c4{
+    /* background-color: blueviolet; */
+}
+.c-h{
+    /* border:1px black solid; */
+    height: 30vh;
+    margin-bottom: 2vh;
+}
+/* .col{
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    width:60vw;
+    margin: 1vw 20vw 1vw 20vw;
+} */

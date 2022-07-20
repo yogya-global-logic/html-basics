@@ -1,0 +1,40 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    background-color: aqua;
+
+    /* border-style:solid;
+    border-color: red;
+    border-width: 5px; */
+
+    /* below is short form of above */
+    border:5px red solid;
+
+    /* padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    */
+
+    /* below is same as above */
+    padding:20px;
+
+    /* we can also give all in one */
+    padding:10px 20px 30px 40px;
+    /* above will take clockwise , 
+    if one is not given it will take opposite 
+    like for left it will take right  */
+
+    /* margin:20px; */
+}
+.m-tb{
+    margin:30px;
+}
+img{
+    border-style: solid;
+    width:50%;
+    height: 50%;
+    border-radius: 30px;
+    /* margin:30px; */
+}
