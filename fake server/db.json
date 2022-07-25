@@ -1,0 +1,28 @@
+{
+  "empDetails": [
+    {
+      "id": 0,
+      "fname": "peter",
+      "email": "tony@gmail.com",
+      "city": "delhi"
+    },
+    {
+      "id": 1,
+      "fname": "henry",
+      "email": "henry@gmail.com",
+      "city": "delhi"
+    },
+    {
+      "id": 2,
+      "fname": "carry",
+      "email": "carry@gmail.com",
+      "city": "delhi2"
+    },
+    {
+      "id": 1658487416627,
+      "fname": "ironman",
+      "email": "ironemail",
+      "city": "ironcity"
+    }
+  ]
+}
